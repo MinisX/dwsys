@@ -25,6 +25,7 @@ class Program
                 // Return is the number of bytes, which we store in 'n'
                 n = rd.Read(data, 0, max);
                 if(n==0) break; // break the loop if there is no more data left to read
+                
                 // Convert byte array into stream
                 // our file uses UTF8 encoding, so we use UTF8
                 String line = Encoding.UTF8.GetString(data, 0, n);

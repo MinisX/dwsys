@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\depinj.exe
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\depinj.deps.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\depinj.runtimeconfig.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\depinj.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\depinj.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\ref\depinj.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\depinj.pdb
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\ref\depinj.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.pdb
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.genruntimeconfig.cache

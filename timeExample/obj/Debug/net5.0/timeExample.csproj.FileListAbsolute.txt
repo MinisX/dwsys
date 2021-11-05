@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\timeExample.exe
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\timeExample.deps.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\timeExample.runtimeconfig.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\timeExample.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\timeExample.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\ref\timeExample.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\bin\Debug\net5.0\timeExample.pdb
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\ref\timeExample.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.pdb
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\timeExample\obj\Debug\net5.0\timeExample.genruntimeconfig.cache

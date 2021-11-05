@@ -11,14 +11,16 @@ namespace regex
         static void Main(string[] args)
         {
             String[] lines = File.ReadAllLines(filename);
-            // regular expression for exactly any 5 characters - ^.{5}$
-            // regular expression which start with character 'h' and then has exactly 4 characters - ^h.{4}$
-            Regex re = new("^h.{4}$");
+            Regex re = new("^X(abc.)(abc.)");
             foreach (var line in lines)
             {
-                // similar to 'line.Contains("abc")'
-                if(re.IsMatch(line)){
-                    System.Console.WriteLine(line);
+                // this data type contains all possible mathces and submatches and groupmatches
+                Match m = re.Match(line);
+                if(m.Success){
+                    foreach (var item in m.Groups)
+                    {
+                        System.Console.WriteLine(item);
+                    }
                 }
             }
         }

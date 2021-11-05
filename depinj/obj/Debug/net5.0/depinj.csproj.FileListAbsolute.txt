@@ -14,3 +14,5 @@ C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.dll
 C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\ref\depinj.dll
 C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.pdb
 C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\obj\Debug\net5.0\depinj.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\depinj\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

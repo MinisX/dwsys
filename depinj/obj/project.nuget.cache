@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mGOGrrG3i0r35MfrySv7ur/1PHWnaXXXMuZWyq1ysIsl3a3iQiksya8oW/ryyJR5yl3/ESNOaOUE502JVCQMkg==",
+  "dgSpecHash": "g3O4IRRNyu3EiO2uwKd/iposGzlPIoJQWtLc/j2JSHYMPQmULhrl/z7UIjpH3alJaK6zRaeLiiGNdQyNglDCoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel\\Desktop\\DWHS_exercises\\dwsys\\depinj\\depinj.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

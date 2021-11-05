@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Threading;
 
 namespace timeExample
@@ -7,14 +8,13 @@ namespace timeExample
     {
         static void Main(string[] args)
         {
-            DateTime start;
-            DateTime end;
+            Stopwatch s = new();
             System.Console.WriteLine("start");
-            start = DateTime.Now;
+            s.Start();
             Thread.Sleep(1000);
-            end = DateTime.Now;
+            s.Stop();
             System.Console.WriteLine("stop");
-            System.Console.WriteLine($"time elapsed = {end-start}");
+            System.Console.WriteLine($"time elapsed = {s.Elapsed}");
         }
     }
 }

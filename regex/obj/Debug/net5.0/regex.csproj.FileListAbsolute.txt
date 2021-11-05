@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\regex.exe
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\regex.deps.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\regex.runtimeconfig.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\regex.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\regex.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\ref\regex.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\bin\Debug\net5.0\regex.pdb
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\ref\regex.dll
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.pdb
+C:\Users\Daniel\Desktop\DWHS_exercises\dwsys\regex\obj\Debug\net5.0\regex.genruntimeconfig.cache
